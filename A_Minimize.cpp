@@ -15,6 +15,15 @@ while (tc--)
 
     int c = b-a;
     cout << c << endl;
+
+    /*
+ayta k ay way teu kora jay
+
+int c = a+b/2;
+int result = (c−a)+(b−c);
+cout << result << endl;
+
+*/
 }
 
     return 0;
